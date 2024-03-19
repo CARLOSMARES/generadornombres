@@ -1,0 +1,9 @@
+include: package:flutter_lints/flutter.yaml
+linet:
+  rules:
+    prefer_const_conscturtors: false
+    prefer_final_fields: false
+    use_key_in_widget_constructor: false
+    prefer_const_literals_to_create_immutables: false
+    prefer_const_conscturtors_immutables: false
+    avoid_print: false
