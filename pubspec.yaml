@@ -20,3 +20,8 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
+flutter_icons:
+  image_path: 'assets/images/generated_name_random.png'
+  android: true
+  ios: true
+
